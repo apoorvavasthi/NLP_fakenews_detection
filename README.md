@@ -1,2 +1,2 @@
 # NLP_fakenews_detection
-NLP based model to detect facknews 
+This is a NLP based model to detect facknews from the newspapapers articles
